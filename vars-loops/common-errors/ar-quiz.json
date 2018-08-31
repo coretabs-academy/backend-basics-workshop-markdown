@@ -1,6 +1,6 @@
 [
     {
-        "text": "مالمشكلة في هذا السطر: `print('Hi there')`",
+        "text": "ما المشكلة في هذا السطر: `print('Hi there')`",
         "answers": {
             "1": "لا يوجد أي مشكلة",
             "2": "ينقص قوس",
@@ -13,7 +13,7 @@
         "choose": []
     },
     {
-        "text": "مالمشكلة في هذا السطر: `print(Coretabs is the best place to learn')`",
+        "text": "ما المشكلة في هذا السطر: `print(Coretabs is the best place to learn')`",
         "answers": {
             "1": "لا يوجد أي مشكلة",
             "2": "ينقص قوس",
@@ -26,7 +26,7 @@
         "choose": []
     },
     {
-        "text": "مالمشكلة في السطر التالي: `print('I love python`",
+        "text": "ما المشكلة في السطر التالي: `print('I love python`",
         "answers": {
             "1": "لا يوجد مشكلة",
             "2": "ينقص قوس",
