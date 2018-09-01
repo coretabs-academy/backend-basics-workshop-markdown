@@ -1,6 +1,6 @@
 [
     {
-        "text": "مالذي يقوم به هذا الكود<br><pre><code>times_eaten = 0\nwhile(times_eaten < 3):\nprint('I am eating')\ntimes_eaten += 1</code></pre>",
+        "text": "مالذي يقوم به هذا الكود<br><pre><code>times_eaten = 0\nwhile(times_eaten < 3):\n    print('I am eating')\n    times_eaten += 1</code></pre>",
         "answers": {
             "1": "يعرض I'm eating مرة واحدة",
             "2": "يقوم بالأكل ثلاث مرات, بمعنى تظهر I'm eating على الشاشة ثلاث مرات"
@@ -12,7 +12,7 @@
         "choose": []
     },
     {
-        "text": "مالذي يقوم به هذا الكود<br><pre><code>speedometer = 0\nwhile (speedometer <= 220):\nprint('car speed is', speedometer)\nspeedometer += 1</code></pre>",
+        "text": "مالذي يقوم به هذا الكود<br><pre><code>speedometer = 0\nwhile (speedometer <= 220):\n    print('car speed is', speedometer)\n    speedometer += 1</code></pre>",
         "answers": {
             "1": "يتوقف عداد السيارة عند بداية الحلقة",
             "2": "يزيد عداد السرعة في السيارة وآخر قيمة تظهر هي 220",
