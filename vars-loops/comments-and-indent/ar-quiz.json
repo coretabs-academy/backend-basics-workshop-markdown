@@ -41,7 +41,7 @@
         "text": "ما المشكلة بهذا الكود<br><pre><code>count = 0\nwhile count < 5:\n    print('Hello Yaser')\ncount = count + 1</code></pre>",
         "answers": {
             "1": "لا يوجد مشكلة",
-            "2": "سيبقى يطبع بدون توقف",
+            "2": "سيبقى يطبع بدون توقف"
         },
         "correct": [
             "2"
