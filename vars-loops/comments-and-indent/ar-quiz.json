@@ -3,7 +3,7 @@
         "text": "مالذي يقوم به هذا الكود<br><pre><code>times_eaten = 0\nwhile(times_eaten < 3):\nprint('I am eating')\ntimes_eaten += 1</code></pre>",
         "answers": {
             "1": "يعرض I'm eating مرة واحدة",
-            "2": "يقوم بالأكل ثلاث مرات, بمعنى تظهر I'm eating على الشاشة ثلاث مرات",
+            "2": "يقوم بالأكل ثلاث مرات, بمعنى تظهر I'm eating على الشاشة ثلاث مرات"
         },
         "correct": [
             "2"
