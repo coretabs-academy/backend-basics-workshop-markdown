@@ -1,105 +1,91 @@
 ^ مالذي سيطبعه البرنامج:
 
 ```python
-x = 'hello'
-
-print('hola is Spanish')
-
-if x == 'hello':
-    print('hello equals hello !')
-
-print('merhaba is Turkish')
+def func():
+    print('hello')
 ```
 
 * سيطبع
 
 ```
-hola is Spanish
-hello equals hello !
+hello
+```
+
+** لن يطبع شيء
+
+$ لم يتم استدعاء الدالة... فقط تعريفها موجود
+
+-
+
+^ مالذي سيطبعه البرنامج التالي:
+
+```python
+func():
+    print('hello')
+
+func()
+```
+
+* سيطبع
+
+```
+hello
+```
+
+** تحصل مشكلة SyntaxError بسبب عدم وجود def
+
+$ تحتاج الدالة لتعريفها لاستعمال def قبل اسم الدالة
+
+-
+
+^ مالذي سيطبعه البرنامج التالي:
+
+```python
+def func():
+    print('hello')
+
+func()
+func()
+```
+
+* سيطبع
+
+```
+hello
 ```
 
 ** سيطبع
 
 ```
-hola is Spanish
-hello equals hello !
-merhaba is Turkish
+hello
+hello
 ```
 
-$ حاول مرة أخرى أو قم بمراجعة الدرس السابق
+* تحصل مشكلة SyntaxError بسبب عدم وجود def
+
+$ يمكن استدعاء الدالة أكثر من مرة
 
 -
 
-^ مالذي سيطبعه البرنامج:
+^ مالذي سيطبعه البرنامج التالي:
 
 ```python
-x = 100
+def check_age(age):
+    if age > 18
+        print("You're allowed to enter")
 
-if x > 50:
-    print('It is larger than 50')
-elif x < 500:
-    print('It is smaller than 500')    
+check_age(30)
+check_age(5)
+check_age(20)
 ```
 
-** ```
-It is larger than 50
-```
+* لن يطبع شيء
 
-* ```
-It is smaller than 500
-```
-
-* ```
-It is larger than 50
-It is smaller than 500
-```
-
-$ الشروط if و elif فقط منهما سيتحقق بالترتيب
-
--
-
-^ مالذي سيطبعه البرنامج:
-
-```python
-x = 100
-
-if x > 50:
-    print('It is larger than 50')
-
-if x < 500:
-    print('It is smaller than 500')    
-```
-
-* ```It is larger than 50```
-
-* ```It is smaller than 500```
-
-** ```
-It is larger than 50
-It is smaller than 500
-```
-
-$ الشروط if و if كلاهما سيتحققان
-
--
-
-
-^ ماهي قيمة x:
+** سيطبع
 
 ```
-x = 100
-
-if x > 50:
-    x = x * 5
-
-if x < 500:
-    x = 77   
+You're allowed to enter
+You're allowed to enter
 ```
 
-* 77
-
-** 500
-
-* 100
-
-$ x ليست أصغر من 500 ولكنها (أصغر أو تساوي 500)
+$ حاول مرة أخرى أو راجع الدرس السابق
