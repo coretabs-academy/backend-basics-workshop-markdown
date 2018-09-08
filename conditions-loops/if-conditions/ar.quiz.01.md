@@ -42,9 +42,13 @@ elif x < 500:
     print('It is smaller than 500')    
 ```
 
-** ```It is larger than 50```
+** ```
+It is larger than 50
+```
 
-* ```It is smaller than 500```
+* ```
+It is smaller than 500
+```
 
 * ```
 It is larger than 50
