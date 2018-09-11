@@ -60,7 +60,7 @@ Welcome to Egypt scholarship program
 
 قبل أن تشارك حلك, قم بالتأكد بأن الكود يعمل أمامك من خلال بيئة العمل هذه:
 
-<a href="https://coretabs.net/classroom/backend/أساسيات-البرمجة/الشروط-والدوالمهمة-عمل-تطبيق-التقديم-على-المنح" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">بيئة العمل</a>
+<a href="https://coretabs.net/classroom/backend/أساسيات-البرمجة/الشروط-والدوال/بيئة-العمل-مهمة-تطبيق-التقديم-على-المنح" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">بيئة العمل</a>
 
 
 حاول بقدر ما تريد, ولا تنسى:
