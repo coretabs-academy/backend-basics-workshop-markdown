@@ -8,10 +8,8 @@
 
 أعجب الكثير من المتقدمين ببرنامج المنح, وأصبح الكثير هناك الكثير من المتقدمين.
 
-ولكن أنت لديك كود يأخذ قيمة شخص واحد من المتقدمين.
-هممم, ما رأيك أن ننسخ الكود بعدد مرات المتقدمين؟
-
-أكيد لازمنا حل آخر.
+ولكن أنت لديك كود يأخذ قيمة شخص واحد من المتقدمين. هممم, ما رأيك أن ننسخ الكود بعدد مرات المتقدمين؟
+أكيد لازمنا حل آخر بدلاً من النسخ واللصق.
 
 ## الدوال هي الحل
 
@@ -38,16 +36,16 @@ apply()
 
 هذه مهمة إضافية للعمل عليها في حال انتهيت من هذه المهمة:
 
-<a href="" style="display: block; width: 200px; background-color: #e8a252; background-image:linear-gradient(to left, #e7832c, #e8bb42); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">المهمة الإضافية</a>
+<a href="https://coretabs.net/classroom/backend/أساسيات-البرمجة/الشروط-والدوال/مهمة-إضافية-معالجة-العديد-من-طلبات-التقديم" style="display: block; width: 200px; background-color: #e8a252; background-image:linear-gradient(to left, #e7832c, #e8bb42); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">المهمة الإضافية</a>
 
 ## كيفية تجربة الأكواد ؟
 
 قبل أن تشارك حلك, قم بالتأكد بأن الكود يعمل أمامك من خلال بيئة العمل هذه:
 
-<a href="" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">بيئة العمل</a>
+<a href="https://coretabs.net/classroom/backend/أساسيات-البرمجة/الشروط-والدوال/بيئة-العمل-مهمة-معالجة-العديد-من-طلبات-التقديم" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">بيئة العمل</a>
 
 ## كيف تقوم بمشاركة الحلول ؟
 
 بإمكانك مشاركة الحلول في مجتمع كورتابز على هذا الرابط:
 
-<a href="" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">مشاركة الحل</a>
+<a href="https://forums.coretabs.net/t/مشاركة-حلول-معالجة-العديد-من-المتقدمين-على-المنح-scholarships/897" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;">مشاركة الحل</a>
